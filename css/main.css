@@ -551,7 +551,7 @@ title{
 .wap .p4th,
 .wap .p5th,
 .wap .p6th{
-    margin: 0.60rem 0 0rem 0;
+    margin: 0.50rem 0 0rem 0;
 }
 
 .wap .footer{
@@ -578,6 +578,10 @@ title{
 
 .wap .p5th .time{
     left: -0.31rem;
+}
+.wap .img-area{
+    width: 3rem;
+    margin-left: 0.30rem;
 }
 
 .wap .footer{
